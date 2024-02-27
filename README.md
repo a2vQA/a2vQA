@@ -20,7 +20,7 @@
 ## Languages:
 <p align="left"> 
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/Chai%20Logo%20(C).svg" alt="chai" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://docs.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/scala.svg" alt="scala" width="40" height="40"/> </a> 
 </p>
@@ -30,10 +30,10 @@
 ## Tools:
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/IntelliJ_IDEA.svg" alt="idea" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/DataGrip.svg" alt="dataGrip" width="60" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/Jupyter.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/postman.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/intellij.svg" alt="idea" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/DataGrip.svg" alt="dataGrip" width="40" height="40"/> </a> 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2vqa&layout=compact)](https://github.com/a2vqa/github-readme-stats)
