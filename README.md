@@ -7,21 +7,15 @@
 #### 📄 Know about my experiences [**hh (Ru)**](https://hh.ru/resume/907c4220ff0779028c0039ed1f4a77636b3256)
 #### 🌍 I speak Russian (native), English (B2)
 
----
-
 ## Connect with me:
 <a href="https://t.me/v_artyomenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/Telegram.svg" alt="telegram" height="40" width="40" /></a>
 <a href="https://vk.ru/hikikomoris" target="blank"><img align="center" src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/vk.svg" alt="vk" height="40" width="40" /></a>
-
----
 
 ## Languages:
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/Chai%20Logo%20(C).svg" alt="chai" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://docs.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/scala.svg" alt="scala" width="40" height="40"/> </a> 
-
----
 
 ## Tools:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/git.svg" alt="git" width="40" height="40"/> </a> 
