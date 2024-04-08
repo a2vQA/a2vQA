@@ -1,6 +1,6 @@
 ![banner](https://github.com/a2vQA/a2vQA/blob/master/icons/banner.png?raw=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&duration=1200&pause=200&color=2EB6F7&multiline=true&repeat=false&random=false&width=435&height=130&lines=Automation+QA;QA+Engineer;Web+testing;API+testing;Load+testing" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&duration=1200&pause=200&color=2EB6F7&multiline=true&repeat=false&random=false&width=435&height=130&lines=Automation+QA;QA+Engineer;Web+testing;API+testing;Load+testing" alt="Typing SVG" /></a>
 
 #### 🌱 I’m currently learning: ***Scala, Java***
 #### 📫 You can reach me at ***hellzzzr@gmail.com***
