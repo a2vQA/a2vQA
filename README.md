@@ -24,6 +24,11 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/intellij.svg" alt="idea" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/a2vQA/a2vQA/master/icons/DataGrip.svg" alt="dataGrip" width="40" height="40"/> </a> 
 
+## My Projects
+| Course                                             | Repository                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Certificate                                                          |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------| 
+| [QA GURU Test Automation School](https://qa.guru/) | [![QA Guru Test Automation School]() [![QA Guru Test Automation School]() ||
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2vqa&layout=compact)](https://github.com/a2vqa/github-readme-stats)
